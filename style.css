@@ -2,4 +2,13 @@ body{
     background: blue;
     font-family:'Times New Roman';
     color:white;
+    
+}
+p{
+    text-align: center;
+}
+
+img{
+    width:50%;
+    
 }
